@@ -43,16 +43,16 @@ A Computer Vision and Deep Learning project that predicts age from facial images
 
 ## Technologies Used
 
-* Python
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow
-* Keras
-* OpenCV
-* Matplotlib
-* Jupyter Notebook
-* Git & GitHub
+Python
+NumPy
+Pandas
+Scikit-learn
+TensorFlow
+Keras
+OpenCV
+Matplotlib
+Jupyter Notebook
+Git & GitHub
 
 
 ## Repository Structure
@@ -60,9 +60,6 @@ A Computer Vision and Deep Learning project that predicts age from facial images
 Each project is organized in a separate folder and may include:
 
 * Source Code
-* Dataset Files
-* Trained Models
-* Project Documentation
 * Output Screenshots
 * Individual README Files
 

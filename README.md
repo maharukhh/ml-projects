@@ -23,13 +23,6 @@ New projects will be added regularly as I continue exploring advanced AI and Mac
 
 ## Featured Projects
 
-### Object Detection System
-
-A Computer Vision project that detects and identifies objects within images using machine learning and image processing techniques.
-
-### NLP Text Summarizer
-
-An NLP-based application that automatically generates concise summaries from lengthy text.
 
 ### Salary Prediction System
 
@@ -38,10 +31,6 @@ A machine learning model that predicts employee salaries using historical and de
 ### Student Result Prediction
 
 An AI-powered system that predicts student academic performance using educational datasets.
-
-### Spam Email Detector
-
-A classification model that identifies and filters spam emails using machine learning algorithms.
 
 ### Simple Linear Regression
 

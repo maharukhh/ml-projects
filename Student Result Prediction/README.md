@@ -70,19 +70,12 @@ Student-Result-Prediction/
 └── README.md
 ```
 
-```markdown
-![Output Screenshot](output.png)
-```
-
----
-
 ## Model Performance
 
 The model is evaluated using the **Accuracy Score** provided by Scikit-learn.
 
 > The accuracy may vary depending on the dataset used for training.
 
----
 
 ## Concepts Used
 

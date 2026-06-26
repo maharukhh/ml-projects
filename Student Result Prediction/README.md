@@ -70,10 +70,6 @@ Student-Result-Prediction/
 └── README.md
 ```
 
-## Output
-
-Add your program output screenshot here.
-
 ```markdown
 ![Output Screenshot](output.png)
 ```

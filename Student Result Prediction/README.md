@@ -1,13 +1,13 @@
-#Student Result Prediction
+# Student Result Prediction
 
 A Machine Learning project that predicts a student's academic result based on study hours, attendance percentage, and previous marks using the Decision Tree Classification algorithm.
 
 
-##Objective
+## Objective
 
 The objective of this project is to build a machine learning model that predicts whether a student is likely to pass or fail based on academic performance indicators.
 
-##Dataset
+## Dataset
 
 The project uses a CSV dataset containing student academic information.
 
@@ -21,14 +21,14 @@ The project uses a CSV dataset containing student academic information.
 
 * Result (Pass/Fail)
 
-##Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
 * Scikit-learn
 * Decision Tree Classifier
 
-##Machine Learning Workflow
+## Machine Learning Workflow
 
 1. Load the dataset.
 2. Select input features and target variable.
@@ -38,13 +38,13 @@ The project uses a CSV dataset containing student academic information.
 6. Accept user input.
 7. Predict the student's result.
 
-##Run the Project
+## Run the Project
 
 ```bash
 python main.py
 ```
 
-##Sample Output
+## Sample Output
 
 ```text
 Model Accuracy: 95.0 %
@@ -59,7 +59,7 @@ Predicted Result: Pass
 ```
 
 
-##Project Structure
+## Project Structure
 
 ```text
 Student-Result-Prediction/
@@ -70,7 +70,7 @@ Student-Result-Prediction/
 └── README.md
 ```
 
-##Output
+## Output
 
 Add your program output screenshot here.
 
@@ -80,7 +80,7 @@ Add your program output screenshot here.
 
 ---
 
-##Model Performance
+## Model Performance
 
 The model is evaluated using the **Accuracy Score** provided by Scikit-learn.
 
@@ -88,7 +88,7 @@ The model is evaluated using the **Accuracy Score** provided by Scikit-learn.
 
 ---
 
-##Concepts Used
+## Concepts Used
 
 * Machine Learning
 * Supervised Learning
@@ -99,7 +99,7 @@ The model is evaluated using the **Accuracy Score** provided by Scikit-learn.
 * Accuracy Score
 
 
-##Future Improvements
+## Future Improvements
 
 * Improve dataset size and quality.
 * Compare Decision Tree with other ML algorithms.
@@ -109,7 +109,7 @@ The model is evaluated using the **Accuracy Score** provided by Scikit-learn.
 * Deploy the model as a web application.
 
 
-##Author
+## Author
 
 **Mahrukh**
 

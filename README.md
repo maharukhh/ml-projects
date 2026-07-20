@@ -1,4 +1,4 @@
-# ML Projects
+# Machine Learning (ML) Projects
 
 A collection of Machine Learning, Artificial Intelligence, and Data Science projects developed using Python. This repository showcases practical implementations of predictive modeling, computer vision, natural language processing (NLP), classification, regression, and intelligent systems designed to solve real-world problems.
 
